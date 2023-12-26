@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>明金同学个人网页</title>
+		<title>桑梓同学个人网页</title>
 		<style type="text/css">
 			/* CSS Document */
 			* {
@@ -134,9 +134,9 @@
 			<img src="https://gitee.com/vmu/cimg/raw/master/img/ch.jpg" alt="">
 			<div class="content_r clearfix">
 				<div class="content_l clearfix">
-					<h2>Hi~ 我是， Welcome here ！</h2>
-					<p class="cc">欢迎来到我的主页，一位热爱编程的小渣渣~</p>
-					<p class="cc">爱好计算机，会去自学一些感兴趣的东西 !</p>
+					<h2>这里是彭文强系列游戏发布页</h2>
+					<p class="cc">欢迎来到我的主页，一位热爱游戏的小渣渣~</p>
+					<p class="cc">爱好游戏与音乐 !</p>
 					<br>
 					<p class="color_1">I am an ambitious salted fish!</p>
 					<p class="color_1">我是一位有野心的咸鱼!</p>
@@ -144,10 +144,10 @@
 					<p class="deeppink">只要路是对的，就不怕路远。</p>
 					<p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
 					<div class="link">
-						<a href="#" class="dodgerblue" target="_blank">官网</a>
-						<a href="https://ymjin.blog.csdn.net/" class="deeppink_1" target="_blank">QQ群</a>
-						<a href="https://ymjin.blog.csdn.net/" class="magenta" target="_blank">个人博客</a>
-						<a href="https://ymjin.blog.csdn.net/" class="orange" target="_blank">网易云音乐</a>
+					<p>官网：<a href="https://www.ahau.edu.cn//">点我</a></p>
+					<p>bilibili：<a href="https://www.bilibili.com/">点我</a></p>
+					<p>抖音：<a href=" https://v.douyin.com/i84399YJ/ 0@7.com">点我</a></p>
+					<p>QQ：<a href="https://user.qzone.qq.com/2499289764/main">点我</a></p>
 					</div>
 				</div>
 			</div>
