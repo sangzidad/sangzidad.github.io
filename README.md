@@ -144,7 +144,7 @@
                     <p class="deeppink">只要路是对的，就不怕路远。</p>
                     <p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
                     <div class="link">
-                                                <a href="#" class="https://www.ahau.edu.cn//">官网</a>
+                        <a href="https://www.ahau.edu.cn//" class="green" target="_blank">官网</a>
                         <a href="https://user.qzone.qq.com/2499289764/main" class="deeppink_1" target="_blank">QQ</a>
                         <a href="https://v.douyin.com/i84399YJ/ 0@7.com" class="magenta" target="_blank">抖音</a>
                         <a href="https://www.bilibili.com/" class="orange" target="_blank">BILIBILI</a>
