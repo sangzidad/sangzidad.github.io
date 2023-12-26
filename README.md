@@ -1,4 +1,4 @@
-<a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">下载链接，密码1234</a>
+<a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">彭文强爱情大冒险（win版1.4下载链接）</a>
 <html>
 
     <head>
@@ -28,9 +28,10 @@
             }
 
             body {
-                background: url(https://sus.lhvw.cn/files/storm/aba49ba0d54af4e690f87951c751caee) no-repeat;
-                background-size: cover;
+                background-image: url("background-dongzhi.jpg");
+                background-repeat: no-repeat;
                 background-attachment: fixed;
+                background-size: cover;
             }
 
             .content {
@@ -148,7 +149,7 @@
                         <a href="https://user.qzone.qq.com/2499289764/main" class="deeppink_1" target="_blank">QQ</a>
                         <a href="https://v.douyin.com/i84399YJ/ 0@7.com" class="magenta" target="_blank">抖音</a>
                         <a href="https://www.bilibili.com/" class="orange" target="_blank">BILIBILI</a>
-                    
+
                     </div>
                 </div>
             </div>
@@ -156,15 +157,7 @@
     </body>
 
 </html>
-<html>
-         <head>
-	<meta content="text/html" charset="UTF-8">
-	<title>HTML设置图片为页面背景</title>
-         </head>
-         <body background="dongzhi.jpg" 
-               style="background-repeat:no-repeat
-               background-attachment:fixed;
-               background-size:100% 100%; ">
-         </body>
-</html>
+
+
+
 
