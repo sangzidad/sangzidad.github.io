@@ -1,4 +1,4 @@
-<!doctype html>
+<a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">下载链接，密码1234</a>
 <html>
 
     <head>
@@ -28,7 +28,7 @@
             }
 
             body {
-                background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
+                background: url(https://sus.lhvw.cn/files/storm/aba49ba0d54af4e690f87951c751caee) no-repeat;
                 background-size: cover;
                 background-attachment: fixed;
             }
@@ -131,7 +131,7 @@
 
     <body>
         <div class="content">
-            <img src="https://gitee.com/vmu/cimg/raw/master/img/ch.jpg" alt="">
+            <img src="https://sus.lhvw.cn/files/storm/f25830f5b915dabdf5e4cf5b54136e76" alt="">
             <div class="content_r clearfix">
                 <div class="content_l clearfix">
                     <h2>这里是彭文强系列游戏发布页</h2>
