@@ -1,158 +1,159 @@
 <!doctype html>
 <html>
 
-	<head>
-		<meta charset="utf-8">
-		<title>桑梓同学个人网页</title>
-		<style type="text/css">
-			/* CSS Document */
-			* {
-				margin: 0;
-				padding: 0;
-			}
+    <head>
+        <meta charset="utf-8">
+        <title>桑梓同学个人网页</title>
+        <style type="text/css">
+            /* CSS Document */
+            * {
+                margin: 0;
+                padding: 0;
+            }
 
-			a {
-				text-decoration: none;
-			}
+            a {
+                text-decoration: none;
+            }
 
-			.clearfix:after {
-				content: "";
-				display: block;
-				height: 0;
-				visibility: hidden;
-				clear: both;
-			}
+            .clearfix:after {
+                content: "";
+                display: block;
+                height: 0;
+                visibility: hidden;
+                clear: both;
+            }
 
-			.clearfix {
-				*zoom: 1;
-			}
+            .clearfix {
+                *zoom: 1;
+            }
 
-			body {
-				background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
-				background-size: cover;
-				background-attachment: fixed;
-			}
+            body {
+                background: url(https://gitee.com/vmu/cimg/raw/master/img/bg.jpg) no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+            }
 
-			.content {
-				width: 900px;
-				height: 500px;
-				margin: 200px auto 0 auto;
-				border-radius: 10px;
-				background-color: rgba(236, 236, 236, 0.59);
-				transition: all 1.0s;
-				/*box-shadow: 0px 0px 20px rgba(0,0,0,0.3);*/
-			}
+            .content {
+                width: 900px;
+                height: 500px;
+                margin: 200px auto 0 auto;
+                border-radius: 10px;
+                background-color: rgba(236, 236, 236, 0.59);
+                transition: all 1.0s;
+                /*box-shadow: 0px 0px 20px rgba(0,0,0,0.3);*/
+            }
 
-			.content img {
-				float: left;
-				width: 200px;
-				height: 200px;
-				margin: 150px 0 0 80px;
-				border-radius: 100px;
+            .content img {
+                float: left;
+                width: 200px;
+                height: 200px;
+                margin: 150px 0 0 80px;
+                border-radius: 100px;
 
-			}
+            }
 
-			.content:hover {
-				box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.52);
-			}
+            .content:hover {
+                box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.52);
+            }
 
-			.content_r {
-				float: right;
-				width: 500px;
-				margin: 80px 60px 0 0;
-				/*	background-color: pink;*/
-			}
+            .content_r {
+                float: right;
+                width: 500px;
+                margin: 80px 60px 0 0;
+                /*    background-color: pink;*/
+            }
 
-			.content_l {
-				float: left;
-				width: 100%;
-				text-align: center;
-			}
+            .content_l {
+                float: left;
+                width: 100%;
+                text-align: center;
+            }
 
-			.content_l h5 {
+            .content_l h5 {
 
-				font-size: 17px;
-			}
+                font-size: 17px;
+            }
 
-			.cc {
-				margin-top: 10px;
-				color: #1F2023;
-				font-size: 18px;
-			}
+            .cc {
+                margin-top: 10px;
+                color: #1F2023;
+                font-size: 18px;
+            }
 
-			.color_1 {
-				color: #4855EC;
-				font-size: 18px;
-			}
+            .color_1 {
+                color: #4855EC;
+                font-size: 18px;
+            }
 
-			.deeppink {
-				color: deeppink;
-			}
+            .deeppink {
+                color: deeppink;
+            }
 
-			.link {
-				margin-top: 30px;
-			}
+            .link {
+                margin-top: 30px;
+            }
 
-			.link a {
-				display: block;
-				float: left;
-				width: 120px;
-				height: 45px;
-				margin: 5px 5px 0 0;
-				/*	padding: 0 15px;*/
-				color: #fff;
-				line-height: 45px;
-				transition: all 0.8s;
-				/*	background-color: deeppink;*/
+            .link a {
+                display: block;
+                float: left;
+                width: 120px;
+                height: 45px;
+                margin: 5px 5px 0 0;
+                /*    padding: 0 15px;*/
+                color: #fff;
+                line-height: 45px;
+                transition: all 0.8s;
+                /*    background-color: deeppink;*/
 
-			}
+            }
 
-			.link a:hover {
-				background-color: rgba(0, 201, 243, 0.35);
-			}
+            .link a:hover {
+                background-color: rgba(0, 201, 243, 0.35);
+            }
 
-			.deeppink_1 {
-				background-color: deeppink;
-			}
+            .deeppink_1 {
+                background-color: deeppink;
+            }
 
-			.dodgerblue {
-				background-color: dodgerblue;
-			}
+            .dodgerblue {
+                background-color: dodgerblue;
+            }
 
-			.magenta {
-				background-color: magenta;
-			}
+            .magenta {
+                background-color: magenta;
+            }
 
-			.orange {
-				background-color: orange;
-			}
-		</style>
-	</head>
+            .orange {
+                background-color: orange;
+            }
+        </style>
+    </head>
 
-	<body>
-		<div class="content">
-			<img src="https://gitee.com/vmu/cimg/raw/master/img/ch.jpg" alt="">
-			<div class="content_r clearfix">
-				<div class="content_l clearfix">
-					<h2>这里是彭文强系列游戏发布页</h2>
-					<p class="cc">欢迎来到我的主页，一位热爱游戏的小渣渣~</p>
-					<p class="cc">爱好游戏与音乐 !</p>
-					<br>
-					<p class="color_1">I am an ambitious salted fish!</p>
-					<p class="color_1">我是一位有野心的咸鱼!</p>
-					<br>
-					<p class="deeppink">只要路是对的，就不怕路远。</p>
-					<p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
-					<div class="link">
-					<p>官网：<a href="https://www.ahau.edu.cn//">点我</a></p>
-					<p>bilibili：<a href="https://www.bilibili.com/">点我</a></p>
-					<p>抖音：<a href=" https://v.douyin.com/i84399YJ/ 0@7.com">点我</a></p>
-					<p>QQ：<a href="https://user.qzone.qq.com/2499289764/main">点我</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</body>
+    <body>
+        <div class="content">
+            <img src="https://gitee.com/vmu/cimg/raw/master/img/ch.jpg" alt="">
+            <div class="content_r clearfix">
+                <div class="content_l clearfix">
+                    <h2>这里是彭文强系列游戏发布页</h2>
+                    <p class="cc">欢迎来到我的主页by SANGZI~</p>
+                    <p class="cc">爱好游戏与音乐 !</p>
+                    <br>
+                    <p class="color_1">I am an ambitious salted fish!</p>
+                    <p class="color_1">我是一位有野心的咸鱼!</p>
+                    <br>
+                    <p class="deeppink">只要路是对的，就不怕路远。</p>
+                    <p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
+                    <div class="link">
+                                                <a href="#" class="https://www.ahau.edu.cn//">官网</a>
+                        <a href="https://user.qzone.qq.com/2499289764/main" class="deeppink_1" target="_blank">QQ</a>
+                        <a href="https://v.douyin.com/i84399YJ/ 0@7.com" class="magenta" target="_blank">抖音</a>
+                        <a href="https://www.bilibili.com/" class="orange" target="_blank">BILIBILI</a>
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
 
 </html>
 
