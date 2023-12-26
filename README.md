@@ -1,4 +1,5 @@
 <a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">彭文强爱情大冒险（win版1.4下载链接）</a>
+安卓版因<a href="https://news.cctv.com/2023/08/08/ARTIVaArWUBVYGBjJwFAJIvF230808.shtml" class="blue_1" target="_blank">工信部信管〔2023〕105号文件</a>暂停下载
 <html>
 
     <head>
