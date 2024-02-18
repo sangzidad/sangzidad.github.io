@@ -1,3 +1,5 @@
+🎊彭文强爱情大冒险2已处于bata阶段！
+
 🤪<a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">彭文强爱情大冒险（win版1.4下载链接）</a>
 
 安卓版因<a href="https://news.cctv.com/2023/08/08/ARTIVaArWUBVYGBjJwFAJIvF230808.shtml" class="blue_1" target="_blank">工信部信管〔2023〕105号文件</a>暂停下载
@@ -141,11 +143,11 @@
                     <p class="cc">欢迎来到我的主页by SANGZI~</p>
                     <p class="cc">爱好游戏与音乐 !</p>
                     <br>
-                    <p class="color_1">I am an ambitious salted fish!</p>
-                    <p class="color_1">我是一位有野心的咸鱼!</p>
+                    <p class="color_1">Hello world</p>
+                    <p class="color_1">编程真难</p>
                     <br>
-                    <p class="deeppink">只要路是对的，就不怕路远。</p>
-                    <p class="deeppink">As long as the road is right, you are not afraid of the distance.</p>
+                    <p class="deeppink">苦尽甘来终有时，一路向阳待花期</p>
+                    <p class="deeppink">fuck the world</p>
                     <div class="link">
                         <a href="https://www.ahau.edu.cn//" class="blue" target="_blank">官网</a>
                         <a href="https://user.qzone.qq.com/2499289764/main" class="deeppink_1" target="_blank">QQ</a>
