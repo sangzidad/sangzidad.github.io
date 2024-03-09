@@ -1,4 +1,4 @@
-🎊彭文强爱情大冒险2已处于bata阶段！
+🎊彭文强爱情大冒险2已处于beta阶段！敬请期待😚
 
 🤪<a href="https://pan.baidu.com/s/1y25YYFgQCY9Ru_Jckjfv8A?pwd=1234" class="blue_1" target="_blank">彭文强爱情大冒险（win版1.4下载链接）</a>
 
