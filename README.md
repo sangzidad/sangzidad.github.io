@@ -153,7 +153,7 @@ var CFG = {
     {src:'images/5.jpg', caption:'草地上的 JK 少女', date:'2026-03-22'},
     {src:'images/6.jpg', caption:'汉服少女，一眼千年', date:'2026-07-06'},
     {src:'images/7.jpg', caption:'假期快乐，我的女孩', date:'2026-08-19'},
-    {src:'images/8.jpg', caption:'高铁上的旅途时光', date:'2026-09-24'}
+    {src:'images/8.jpg', caption:'高铁上的平潭时光', date:'2026-09-24'}
   ]
 };
 /* 加照片示例：
