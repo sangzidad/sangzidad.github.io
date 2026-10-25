@@ -36,7 +36,7 @@ window.LOVE_CONFIG = {
     { src: '4.jpg', caption: '牵手走过六百年的城楼', date: '2026-03-08' },
     { src: '5.jpg', caption: '草地上的 JK 少女', date: '2026-03-22' },
     { src: '6.jpg', caption: '汉服少女，一眼千年', date: '2026-07-06' },
-    { src: '7.jpg', caption: '生日快乐，我的女孩', date: '2026-08-19' },
+    { src: '7.jpg', caption: '假期快乐，我的女孩', date: '2026-08-19' },
     { src: '8.jpg', caption: '高铁上的旅途时光', date: '2026-09-24' }
   ],
 
