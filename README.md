@@ -183,7 +183,7 @@ function ph(i,t){
     '<rect width="600" height="760" fill="url(#g)"/>'+
     '<text x="300" y="370" font-size="130" text-anchor="middle" fill="#ff6fae" font-family="sans-serif">\u2665</text>'+
     '<text x="300" y="440" font-size="24" text-anchor="middle" fill="#fbeaf3" font-family="sans-serif">'+String(t||('第 '+(i+1)+' 张')).replace(/[<>&]/g,'')+'</text>'+
-    '<text x="300" y="480" font-size="18" text-anchor="middle" fill="#fbeaf3" fill-opacity=".5" font-family="sans-serif">把你们的照片放到这里</text></svg>';
+    '<text x="300" y="480" font-size="18" text-anchor="middle" fill="#fbeaf3" fill-opacity=".5" font-family="sans-serif">  </text></svg>';
   return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(s);
 }
 
