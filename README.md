@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>我们的恋爱计时</title>
+<title>桑梓 ❤ 张晴晴 · 恋爱计时</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;color:#fbeaf3;font:15px/1.7 "PingFang SC","Microsoft YaHei","Hiragino Sans GB",sans-serif;
@@ -123,7 +123,7 @@ background:linear-gradient(transparent,rgba(18,7,22,.88));transform:translateY(1
   </section>
 
   <section class="wall">
-    <h2 id="wt">我们的回忆</h2>
+    <h2 id="wt">我们的照片墙</h2>
     <div class="grid" id="grid"></div>
   </section>
 
@@ -139,22 +139,23 @@ background:linear-gradient(transparent,rgba(18,7,22,.88));transform:translateY(1
 /* ========== 配置：只改这里 ========== */
 var CFG = {
   nameA: '桑梓',                 // 左边名字
-  nameB: '张晴晴',                 // 右边名字
-  startDate: '2024-09-07',       // 在一起那天，支持 '2024-05-20 14:30'
+  nameB: '张晴晴',               // 右边名字
+  startDate: '2024-09-07',       // 在一起那天，支持 '2024-09-07 14:30'
   subtitle: '遇见你，是我所有好运的开始',
   wallTitle: '我们的照片墙',
   footer: '愿年年有今日，岁岁有今朝',
   fallingHearts: true,           // 背景飘落爱心
   photos: [                      // src 留空则显示占位图；可写本地路径或远程链接，可混用
-    {src:'images/1.JPG', caption:'初见那天，风很温柔', date:'2024-08-21'},
-    {src:'images/2.JPG', caption:'第一次一起吃的火锅', date:'2024-09-16'},
-    {src:'images/3.JPG', caption:'你笑起来的样子',   date:'2025-11-05'},
-    {src:'images/4.JPG', caption:'一起逛过的城',     date:'2026-03-08'},
-    {src:'images/5.JPG', caption:'夏天的风和你',     date:'2026-03-22'},
-    {src:'images/6.JPG', caption:'想把时间停在这里', date:'2026-07-06'},
-    {src:'images/7.JPG', caption:'一起吃的第 100 顿', date:'2026-08-19'},
-    {src:'images/8.JPG', caption:'下一年也要一起',   date:'2026-09-24'}
+    {src:'images/1.jpg', caption:'运动场边的元气少女', date:'2024-08-21'},
+    {src:'images/2.jpg', caption:'我们的合照，笑容很甜', date:'2024-09-16'},
+    {src:'images/3.jpg', caption:'湖边的风，秋天的你', date:'2025-11-05'},
+    {src:'images/4.jpg', caption:'牵手走过六百年的城楼', date:'2026-03-08'},
+    {src:'images/5.jpg', caption:'草地上的 JK 少女', date:'2026-03-22'},
+    {src:'images/6.jpg', caption:'汉服少女，一眼千年', date:'2026-07-06'},
+    {src:'images/7.jpg', caption:'假期快乐，我的女孩', date:'2026-08-19'},
+    {src:'images/8.jpg', caption:'高铁上的旅途时光', date:'2026-09-24'}
   ]
+};
 /* 加照片示例：
    {src:'images/1.jpg', caption:'我们的第一张合照', date:'2024-05-20'}     本地
    {src:'https://你的图床/a.jpg', caption:'海边', date:'2024-06-01'}        远程
